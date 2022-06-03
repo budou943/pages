@@ -1,5 +1,7 @@
-p{color:gray;font-size:30px}
-#top{font-family: 'M PLUS 1 Code', sans-serif;
-     text-align: center;font-size:50px}
+.header{font-family: 'M PLUS 1 Code', sans-serif;
+        color:gray;font-size:30px; text-align: center}
+  #top{color:#2c9c8e;font-size:50px}
+
 .main{font-family: 'M PLUS 1 Code', sans-serif;}
-#a{color:green;font-size:30px}
+  #qa{color:blue;font-size:40px}
+  #a{color:green;font-size:30px}
