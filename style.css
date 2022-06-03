@@ -1,9 +1,9 @@
 .header{font-family: 'M PLUS 1 Code', sans-serif;
         color:gray;font-size:30px; text-align: center}
-  #top{color:#2c9c8e;font-size:50px}
+  #top{color:#2c9c8e;font-size:80px}
 
 .main{font-family: 'M PLUS 1 Code', sans-serif;}
-  #qa{color:blue;font-size:40px}
+  #qa{color:blue;font-size:50px}
    #q{color:red;font-size:30px}
    #a{color:green;font-size:30px}
-    #normal {color:black;font-size:30px}
+    #normal {color:black;font-size:20px}
