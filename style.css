@@ -1,3 +1,5 @@
+.padding{width: 300px; margin: 0 auto; padding: 0 1em; }
+
 #header{font-family: 'Zen Kaku Gothic New', sans-serif;
         color:gray;font-size:30px; text-align: center}
   #top{color:#2c9c8e;font-size:80px}
@@ -5,5 +7,5 @@
  .main{font-family: 'M PLUS 1 Code', sans-serif;color:gray;font-size:20px;}
  .subhead{color:black;font-cize:50px;font-family:'M1 PLUS 1 Code',sans-serif;}
 
-   #q{color:gray;font-size:30px}
-   #a{color:green;font-size:30px}
+   #q{color:#ffb357;font-size:30px}
+   #a{color:#bfddff;font-size:30px}
