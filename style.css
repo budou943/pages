@@ -5,7 +5,7 @@
 }
 
 main {
-  margin: 40px;
+  margin: 5%;
 }
 
 header {
@@ -15,12 +15,12 @@ header {
 
 header h1 {
   color: #2c9c8e;
-  font-size: 6000％;
+  font-size: 100%;
 }
 
 header p {
   color: gray;
-  font-size: 3000%;
+  font-size: 80%;
 }
 
 main {
@@ -29,33 +29,33 @@ main {
 
 main h2 {
   color: black;
-  font-size: 50px;
+  font-size: 75%;
   text-align: center
 }
 
 main div {
   color: gray;
-  font-size:200％;
+  font-size:50%;
 }
 
 main #h3a {
   color: #478bff;
-  font-size: 50px;
+  font-size: 75%;
 }
 
 main p {
   color: gray;
-  font-size: 30％;
+  font-size: 50%;
 }
 
 #q {
   color: #ffb357;
-  font-size: 30px
+  font-size: 70%
 }
 
 #a {
   color: #66a1ff;
-  font-size: 30px
+  font-size: 70%
 }
 
 .center {
