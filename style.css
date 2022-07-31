@@ -10,7 +10,7 @@ main {
 
 header {
   font-family: 'Zen Kaku Gothic New', sans-serif;
-  text-align: center
+  text-align: center;
   width: 100%;
   height: auto;
   margin: 5%;
@@ -29,6 +29,8 @@ header p {
 
 main {
   font-family: 'M PLUS 1 Code', sans-serif;
+  width: 80%;
+  height: auto;
 }
 
 main h2 {
