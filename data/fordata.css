@@ -4,8 +4,8 @@ a.btn--orange {
   color: #fff;
   background-color: #eb6100;
   font-family: 'BIZ UDGothic', sans-serif;
-   width:20%;
-   height: 30px;
+   width: auto ;
+   height: auto ;
 }
 .btn--orange:hover,
 a.btn--orange:hover {
