@@ -11,11 +11,15 @@ main {
 header {
   font-family: 'Zen Kaku Gothic New', sans-serif;
   text-align: center
+  width: 100%;
+  height: auto;
+  margin: 5%;
 }
 
 header h1 {
   color: #2c9c8e;
-  font-size: 100%;
+  width: 100%;
+  height: auto;
 }
 
 header p {
