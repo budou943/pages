@@ -24,20 +24,14 @@ header h1 {
 
 header p {
   color: gray;
-  font-size: 80%;
 }
 
 main {
   font-family: 'M PLUS 1 Code', sans-serif;
+  font-size: 100%;
   width: 100%;
   height: auto;
   margin: 5%;
-}
-
-main{
-  font-size: 100%;
-  width: auto;
-  height: auto;
 }
 
 main h2 {
@@ -49,7 +43,7 @@ main #h3a {
   color: #478bff;
 }
 
-main div .about{
+.about{
   color: gray;
   width: 70%;
   height: auto;
