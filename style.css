@@ -4,10 +4,6 @@
   text-align: center;
 }
 
-main {
-  margin: 5%;
-}
-
 header {
   font-family: 'Zen Kaku Gothic New', sans-serif;
   text-align: center;
@@ -57,12 +53,9 @@ main #h3a {
   color: #66a1ff;
 }
 
-.center {
-  text-align: center
-}
-
 hr {
   color: gray;
+  text-align: center;
 }
 
 
