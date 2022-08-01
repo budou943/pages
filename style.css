@@ -34,7 +34,7 @@ main {
   margin: 5%;
 }
 
-main div .qa{
+main{
   font-size: 100%;
   width: auto;
   height: auto;
@@ -49,8 +49,10 @@ main #h3a {
   color: #478bff;
 }
 
-main p {
+main div .about{
   color: gray;
+  width: 70%;
+  height: auto;
 }
 
 #q {
