@@ -29,39 +29,36 @@ header p {
 
 main {
   font-family: 'M PLUS 1 Code', sans-serif;
-  width: 80%;
+  width: 100%;
+  height: auto;
+  margin: 5%;
+}
+
+main div .qa{
+  font-size: 100%;
+  width: auto;
   height: auto;
 }
 
 main h2 {
   color: black;
-  font-size: 75%;
-  text-align: center
-}
-
-main div {
-  color: gray;
-  font-size:50%;
+  text-align: center;
 }
 
 main #h3a {
   color: #478bff;
-  font-size: 75%;
 }
 
 main p {
   color: gray;
-  font-size: 50%;
 }
 
 #q {
   color: #ffb357;
-  font-size: 70%
 }
 
 #a {
   color: #66a1ff;
-  font-size: 70%
 }
 
 .center {
@@ -70,6 +67,8 @@ main p {
 
 hr {
   color: gray;
+  width: auto;
+  height: auto;
 }
 
 
